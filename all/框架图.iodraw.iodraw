@@ -104,7 +104,7 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-61" value="&lt;span&gt;Emotion &lt;br&gt;Space&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="352" y="576" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="PBPzgTUqPoOcbmWGmRdQ-1" target="PBPzgTUqPoOcbmWGmRdQ-9">
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;endArrow=block;endFill=1;startSize=5;" edge="1" parent="1" source="PBPzgTUqPoOcbmWGmRdQ-1" target="PBPzgTUqPoOcbmWGmRdQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-1" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
