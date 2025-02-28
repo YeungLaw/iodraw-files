@@ -119,6 +119,9 @@
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-8" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="399.5" y="940.25" width="71" height="41.75" as="geometry" />
         </mxCell>
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="257" y="822" width="29" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
