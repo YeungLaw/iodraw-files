@@ -107,7 +107,7 @@
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;endArrow=block;endFill=1;startSize=5;endSize=3;" edge="1" parent="1" source="PBPzgTUqPoOcbmWGmRdQ-1" target="PBPzgTUqPoOcbmWGmRdQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-1" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-1" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="158" y="940.25" width="71" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=29.478024800618527;rotation=90;flipH=1;" vertex="1" parent="1">
