@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="489" y="200" width="110" height="50" as="geometry" />
+          <mxGeometry x="459" y="200" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="PV2dvZUyfkgMQ-hs7By2-3" target="PV2dvZUyfkgMQ-hs7By2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
