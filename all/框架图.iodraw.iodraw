@@ -140,8 +140,8 @@
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-27" value="image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83.75" y="920.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="870" width="60" height="30" as="geometry" />
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-29" value="Patch partion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="972" width="94" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
