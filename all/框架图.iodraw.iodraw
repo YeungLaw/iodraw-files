@@ -108,13 +108,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-1" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="158" y="940.25" width="71" height="41.75" as="geometry" />
+          <mxGeometry x="158" y="940.25" width="71" height="32.75" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=29.478024800618527;rotation=90;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="61" y="949" width="83.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-9" value="C&lt;sub&gt;1&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="901" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-11" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="239" y="940.25" width="71" height="32.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
