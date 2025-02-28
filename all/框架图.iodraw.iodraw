@@ -105,10 +105,10 @@
           <mxGeometry x="352" y="576" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-1" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="897" width="71" height="112" as="geometry" />
+          <mxGeometry x="158" y="940.25" width="71" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=29.478024800618527;rotation=90;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="947" width="83.5" height="37.5" as="geometry" />
+          <mxGeometry x="61" y="949" width="83.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
