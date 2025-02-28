@@ -111,7 +111,7 @@
           <mxGeometry x="158" y="940.25" width="71" height="32.75" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=29.478024800618527;rotation=90;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="901" width="83.5" height="37.5" as="geometry" />
+          <mxGeometry x="57" y="887" width="83.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-9" value="C&lt;sub&gt;1&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="901" width="26" height="26" as="geometry" />
@@ -134,14 +134,8 @@
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-22" value="C&lt;sub&gt;3&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="901" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;endArrow=block;endFill=1;startSize=5;endSize=3;" edge="1" source="PBPzgTUqPoOcbmWGmRdQ-24" target="PBPzgTUqPoOcbmWGmRdQ-25" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-24" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="407" y="940.25" width="71" height="32.75" as="geometry" />
-        </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-25" value="C&lt;sub&gt;1&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="429.5" y="901" width="26" height="26" as="geometry" />
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="846" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
