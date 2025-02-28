@@ -137,7 +137,7 @@
         <mxCell id="PBPzgTUqPoOcbmWGmRdQ-22" value="C&lt;sub&gt;3&lt;/sub&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="901" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PBPzgTUqPoOcbmWGmRdQ-27" value="image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="81" y="920.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
