@@ -162,7 +162,7 @@
           <mxGeometry x="324" y="901" width="238" height="133" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="402" y="906" width="246" height="33" as="geometry" />
+          <mxGeometry x="345.5" y="910" width="191.5" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
