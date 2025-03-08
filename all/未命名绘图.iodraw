@@ -158,11 +158,11 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="443.5" y="798.5" width="26.5" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;arcSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;arcSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="324" y="901" width="238" height="133" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" vertex="1" parent="1">
-          <mxGeometry x="347.25" y="907" width="191.5" height="28" as="geometry" />
+          <mxGeometry x="347.25" y="913" width="191.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
