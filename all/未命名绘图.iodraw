@@ -268,7 +268,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-44" value="Local Features Extraction Branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="850" width="209" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-45" value="Local Features Extraction Branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-45" value="Global Features Extraction Branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="329.75" y="1008" width="209" height="33" as="geometry" />
         </mxCell>
       </root>
