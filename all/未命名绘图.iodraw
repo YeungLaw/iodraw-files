@@ -253,6 +253,9 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-36" value="Fusion" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="663" y="875" width="62" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OU_fOygVOPorZR7enB_c-40" value="Sentiment Prediction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="736" y="854" width="85" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
