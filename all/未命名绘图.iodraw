@@ -223,7 +223,7 @@
           <mxGeometry x="599" y="919" width="27" height="97" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-32" value="Local features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="580" y="854" width="85" height="33" as="geometry" />
+          <mxGeometry x="583" y="846" width="85" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
