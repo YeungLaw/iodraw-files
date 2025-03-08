@@ -222,7 +222,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;curved=1;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-30" target="OU_fOygVOPorZR7enB_c-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;gradientDirection=south;shadow=0;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;fillStyle=cross-hatch;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;gradientDirection=south;shadow=0;glass=0;fillColor=none;strokeColor=#10739e;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="599" y="757" width="27" height="97" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;curved=1;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-31" target="OU_fOygVOPorZR7enB_c-36">
