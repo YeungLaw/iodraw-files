@@ -164,8 +164,8 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" vertex="1" parent="1">
           <mxGeometry x="347.25" y="910" width="191.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.25" y="977" width="48.75" height="43" as="geometry" />
+        <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.25" y="977" width="42.75" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cce5ff;opacity=30;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="181.31" y="534" width="452.88" height="190" as="geometry" />
