@@ -240,7 +240,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-5" target="OU_fOygVOPorZR7enB_c-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-36" value="Fusion" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-36" value="Fusion" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="685" y="886" width="62" height="30" as="geometry" />
         </mxCell>
       </root>
