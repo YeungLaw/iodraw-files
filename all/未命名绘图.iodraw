@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="4uDn7cclaqp_8st4GZhA" name="第 1 页">
-    <mxGraphModel dx="644" dy="357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="540" dy="299" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
             <mxPoint x="398.5" y="944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=default;gradientColor=#97d077;strokeColor=#82b366;gradientDirection=north;shadow=1;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=default;gradientColor=#97d077;strokeColor=#82b366;gradientDirection=north;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="599" y="757" width="27" height="97" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=north;shadow=1;" vertex="1" parent="1">
