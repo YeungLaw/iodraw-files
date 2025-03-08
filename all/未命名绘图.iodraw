@@ -173,6 +173,15 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-14" value="Patch Partition" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;" vertex="1" parent="1">
           <mxGeometry x="348.56" y="934" width="191.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="977" width="42.75" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OU_fOygVOPorZR7enB_c-16" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="977" width="42.75" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OU_fOygVOPorZR7enB_c-17" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="977" width="42.75" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
