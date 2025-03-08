@@ -231,7 +231,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;gradientDirection=south;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="599" y="919" width="27" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-32" value="Local features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-32" value="Local features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="583" y="846" width="85" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-33" value="Global features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
