@@ -300,7 +300,7 @@
             <mxPoint x="487.5" y="806.4300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-61" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;endSize=2;entryX=0.555;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OU_fOygVOPorZR7enB_c-5">
+        <mxCell id="OU_fOygVOPorZR7enB_c-61" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;endSize=2;entryX=0.555;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;startSize=4;" edge="1" parent="1" target="OU_fOygVOPorZR7enB_c-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="427" y="801" as="sourcePoint" />
             <mxPoint x="451.51" y="757.01" as="targetPoint" />
