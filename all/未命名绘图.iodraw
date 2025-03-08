@@ -225,6 +225,9 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-32" value="Local features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="583" y="846" width="85" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="OU_fOygVOPorZR7enB_c-33" value="Global features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="583" y="1006" width="85" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
