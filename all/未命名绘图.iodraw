@@ -165,7 +165,7 @@
           <mxGeometry x="347.25" y="910" width="191.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.25" y="977" width="42.75" height="43" as="geometry" />
+          <mxGeometry x="340.75" y="978" width="42.75" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cce5ff;opacity=30;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="181.31" y="534" width="452.88" height="190" as="geometry" />
@@ -174,13 +174,13 @@
           <mxGeometry x="347.25" y="944" width="191.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400.75" y="977" width="42.75" height="43" as="geometry" />
+          <mxGeometry x="394.25" y="978" width="42.75" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-16" value="stage3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="977" width="42.75" height="43" as="geometry" />
+          <mxGeometry x="448.5" y="978" width="42.75" height="43" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-17" value="stage4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="977" width="42.75" height="43" as="geometry" />
+          <mxGeometry x="502.5" y="978" width="42.75" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
