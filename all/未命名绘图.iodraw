@@ -265,8 +265,8 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-43" value="Input image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="186" y="911" width="85" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-44" value="Local features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="342" y="856" width="85" height="33" as="geometry" />
+        <mxCell id="OU_fOygVOPorZR7enB_c-44" value="Local features" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="343" y="850" width="85" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
