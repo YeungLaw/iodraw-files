@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="340" y="984" width="42.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cce5ff;opacity=30;arcSize=5;" vertex="1" parent="1">
@@ -189,7 +189,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-15" target="OU_fOygVOPorZR7enB_c-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="394.25" y="983" width="42.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-16" target="OU_fOygVOPorZR7enB_c-17">
