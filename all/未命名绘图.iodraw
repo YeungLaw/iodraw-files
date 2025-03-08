@@ -277,14 +277,14 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-47" value="stage1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="318.87" y="824" width="85" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-48" value="stage1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-48" value="stage2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="365.25" y="824" width="85" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-49" value="stage1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-49" value="stage3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="411" y="824" width="85" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-50" value="stage1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="456.25" y="824" width="85" height="33" as="geometry" />
+          <mxGeometry x="463" y="824" width="85" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
