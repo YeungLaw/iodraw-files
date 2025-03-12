@@ -393,7 +393,7 @@
           <mxGeometry x="1328" y="913.5" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-92" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;情感特征&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1215.5" y="969.38" width="53.5" height="30" as="geometry" />
+          <mxGeometry x="1214.5" y="963" width="53.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-95" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-69" target="OU_fOygVOPorZR7enB_c-91">
           <mxGeometry relative="1" as="geometry" />
