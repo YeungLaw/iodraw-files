@@ -333,7 +333,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/736x/5f/af/31/5faf31543a864e0b7567f894e61f3789.jpg;labelBorderColor=default;imageBorder=default;" vertex="1" parent="1">
           <mxGeometry x="1038.52" y="921.0000000000001" width="75.96" height="42.61" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-73" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;arcSize=10;strokeColor=default;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-73" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;arcSize=10;strokeColor=default;strokeWidth=10.5;" vertex="1" parent="1">
           <mxGeometry x="1140" y="917" width="49" height="17" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-74" value="全局分支" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;arcSize=10;" vertex="1" parent="1">
