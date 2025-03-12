@@ -342,13 +342,13 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-75" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;＋&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="1194" y="929.5" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-78" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;endSize=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-73" target="OU_fOygVOPorZR7enB_c-75">
+        <mxCell id="OU_fOygVOPorZR7enB_c-78" value="" style="curved=0;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;endSize=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-73" target="OU_fOygVOPorZR7enB_c-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1194" y="917" as="sourcePoint" />
             <mxPoint x="1244" y="867" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1189" y="924" />
-              <mxPoint x="1206" y="924" />
+              <mxPoint x="1189" y="923" />
+              <mxPoint x="1206" y="923" />
               <mxPoint x="1206" y="930" />
             </Array>
           </mxGeometry>
