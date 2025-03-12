@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="4uDn7cclaqp_8st4GZhA" name="第 1 页">
-    <mxGraphModel dx="552" dy="299" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="155" dy="84" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,14 +312,11 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-63" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeColor=#CC0000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="902" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-84" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-65" target="OU_fOygVOPorZR7enB_c-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;arcSize=6;fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1111" y="901.25" width="113" height="73.75" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1243" y="909.25" width="21" height="62.5" as="geometry" />
+          <mxGeometry x="1255" y="909.25" width="21" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-67" value="输入原始图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1019" y="968" width="79" height="30" as="geometry" />
