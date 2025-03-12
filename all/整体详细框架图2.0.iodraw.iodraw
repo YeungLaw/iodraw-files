@@ -381,8 +381,8 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/236x/77/66/49/77664943ba05caede1d323fa887bf4eb.jpg;imageBorder=default;" vertex="1" parent="1">
           <mxGeometry x="1366" y="913.5" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-92" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;情感导向&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;生成模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="969.38" width="136.5" height="30" as="geometry" />
+        <mxCell id="OU_fOygVOPorZR7enB_c-92" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;情感特征&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1215.5" y="969.38" width="53.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
