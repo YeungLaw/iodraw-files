@@ -315,7 +315,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-64" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1043" y="902.5" width="62" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-65" value="视觉情感&lt;br&gt;分析模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="1135" y="895" width="85" height="76.75" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
