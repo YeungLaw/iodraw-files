@@ -281,7 +281,7 @@
           <mxGeometry x="720" y="68" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-15" value="F(x)+x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="720" y="206" width="60" height="30" as="geometry" />
+          <mxGeometry x="790" y="273" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-16" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="830" y="26" width="60" height="30" as="geometry" />
