@@ -294,10 +294,10 @@
           <mxGeometry x="318.88" y="869.5" width="85" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-48" value="stage2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="394.25" y="872" width="85" height="33" as="geometry" />
+          <mxGeometry x="400.5" y="872" width="85" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-49" value="stage3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="872" width="85" height="33" as="geometry" />
+          <mxGeometry x="447.25" y="872" width="85" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-50" value="stage4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="492" y="872" width="85" height="33" as="geometry" />
@@ -473,6 +473,9 @@
             <mxPoint x="372.62" y="844.71" as="sourcePoint" />
             <mxPoint x="394.62" y="844.8100000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VIliGO5FSfr6xH9SGfwO-30" value="stage2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="872" width="85" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
