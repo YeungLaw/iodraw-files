@@ -230,8 +230,8 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-1" value="Conv:1×1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="74" y="499" width="105" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88" y="534" width="120" height="60" as="geometry" />
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="66.5" y="551" width="120" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
