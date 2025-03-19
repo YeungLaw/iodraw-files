@@ -474,7 +474,7 @@
             <mxPoint x="394.62" y="844.8100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIliGO5FSfr6xH9SGfwO-30" value="stage2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="VIliGO5FSfr6xH9SGfwO-30" value="stage1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="359" y="872" width="85" height="33" as="geometry" />
         </mxCell>
       </root>
