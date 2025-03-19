@@ -230,7 +230,7 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-1" value="Conv:1×1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="536" width="105" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-2" value="BN,Relu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-2" value="BN,Relu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="105.75" y="580" width="73.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-3" value="Conv:3×3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -248,7 +248,7 @@
             <mxPoint x="176" y="552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-5">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="107" y="690" as="sourcePoint" />
             <mxPoint x="143" y="765" as="targetPoint" />
