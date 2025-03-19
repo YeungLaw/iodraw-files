@@ -228,9 +228,9 @@
           <mxGeometry x="217" y="300" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-1" value="Conv:1×1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="536" width="105" height="35" as="geometry" />
+          <mxGeometry x="90" y="530" width="118" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-2" value="BN,Relu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-2" value="BN,Relu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="105.75" y="580" width="73.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-3" value="Conv:3×3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
