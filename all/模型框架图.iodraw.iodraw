@@ -268,13 +268,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-15" value="Conv:1×1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="311" y="533" width="105" height="35" as="geometry" />
+          <mxGeometry x="311" y="518" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-16" value="BN,Relu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="326.75" y="577" width="73.5" height="16" as="geometry" />
+          <mxGeometry x="326.75" y="562" width="73.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-17" value="DCNv4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="311" y="615" width="105" height="35" as="geometry" />
+          <mxGeometry x="311" y="585" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-19">
           <mxGeometry relative="1" as="geometry">
@@ -289,8 +289,8 @@
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" target="dTGVh1k9Jvb3Y0WyYaHo-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="499" as="sourcePoint" />
-            <mxPoint x="397" y="549" as="targetPoint" />
+            <mxPoint x="364" y="484" as="sourcePoint" />
+            <mxPoint x="397" y="534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-22" value="＋" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -306,6 +306,9 @@
               <mxPoint x="461" y="733" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-24" value="DCNv4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
