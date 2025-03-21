@@ -314,7 +314,7 @@
           <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多标签情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="158.5" y="-852" width="125" height="20" as="geometry" />
+          <mxGeometry x="156.5" y="-871" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-37" target="dTGVh1k9Jvb3Y0WyYaHo-80">
           <mxGeometry relative="1" as="geometry" />
