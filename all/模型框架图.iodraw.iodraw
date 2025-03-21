@@ -313,8 +313,8 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="anger&lt;br&gt;awe&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="186" y="-946" width="60.5" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多情感情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="-853" width="125" height="20" as="geometry" />
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多标签情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="-852" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="G" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="517" y="-988.5" width="120" height="57.5" as="geometry" />
