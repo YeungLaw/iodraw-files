@@ -316,8 +316,8 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontFamily=Times New Roman;fontSize=16;arcSize=15;" vertex="1" parent="1">
           <mxGeometry x="69" y="-1089" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="情感标签1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-943" width="110" height="31" as="geometry" />
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="anger&lt;br&gt;awe&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-943" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多情感情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="-863.25" width="125" height="20" as="geometry" />
@@ -348,9 +348,6 @@
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="情感融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="-991" width="98" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-70" value="情感标签2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-904" width="110" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
