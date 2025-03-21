@@ -335,7 +335,7 @@
           <mxGeometry x="674" y="-966" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="情感融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400.25" y="-1029" width="98" height="60" as="geometry" />
+          <mxGeometry x="395" y="-974" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;情感编码器&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.2222222222222222;whiteSpace=wrap;horizontal=0;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="271" y="-931" width="100" height="60" as="geometry" />
@@ -344,7 +344,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-73" value="BiHAFNet适配器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-918" width="98" height="60" as="geometry" />
+          <mxGeometry x="395" y="-1072" width="98" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
