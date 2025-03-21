@@ -319,11 +319,11 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="情感标签" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="90" y="-904.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="目标情感" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多情感情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="-863.25" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="G" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="526" y="-999" width="120" height="57.5" as="geometry" />
+          <mxGeometry x="517" y="-988.5" width="120" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-39" target="dTGVh1k9Jvb3Y0WyYaHo-42">
           <mxGeometry relative="1" as="geometry" />
@@ -338,7 +338,7 @@
           <mxGeometry x="179" y="-1059" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-61" value="Target Image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="708" y="-984" width="100" height="20" as="geometry" />
+          <mxGeometry x="674" y="-966" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-65" value="文本特征" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="266" y="-997" width="100" height="20" as="geometry" />
