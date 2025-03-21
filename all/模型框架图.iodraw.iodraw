@@ -313,9 +313,6 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-24" value="DCNv4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontFamily=Times New Roman;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="186" y="-946" width="60.5" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多标签情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="158.5" y="-852" width="125" height="20" as="geometry" />
         </mxCell>
@@ -349,8 +346,10 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;情感编码器&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.2222222222222222;whiteSpace=wrap;horizontal=0;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="271" y="-931" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-30" target="dTGVh1k9Jvb3Y0WyYaHo-71">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dTGVh1k9Jvb3Y0WyYaHo-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="246.5" y="-908.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-73" target="dTGVh1k9Jvb3Y0WyYaHo-69">
           <mxGeometry relative="1" as="geometry" />
@@ -376,8 +375,8 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-82" value="输出图像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="650" y="-859" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-83" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-992" width="80" height="100" as="geometry" />
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-83" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;anger&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;awe&lt;/span&gt;&lt;br style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-962" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
