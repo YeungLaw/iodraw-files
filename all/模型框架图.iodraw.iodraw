@@ -311,10 +311,10 @@
           <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontFamily=Times New Roman;fontSize=16;arcSize=15;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="193" y="-952" width="180" height="140" as="geometry" />
+          <mxGeometry x="166" y="-952" width="203" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontFamily=Times New Roman;fontSize=16;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="69" y="-1089" width="300" height="120" as="geometry" />
+          <mxGeometry x="169" y="-1089" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="anger&lt;br&gt;awe&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="-935" width="76" height="75" as="geometry" />
