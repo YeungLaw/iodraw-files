@@ -349,7 +349,7 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-73" target="dTGVh1k9Jvb3Y0WyYaHo-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-73" value="BiHAFNet适配器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;BiHAFNet&lt;br&gt;适配器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="425" y="-1081" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-42" target="dTGVh1k9Jvb3Y0WyYaHo-69">
