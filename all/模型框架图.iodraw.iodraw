@@ -328,17 +328,11 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="目标情感" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="-746.25" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-51" target="dTGVh1k9Jvb3Y0WyYaHo-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334" y="-906" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-33" value="One-Hot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="-701" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-35" value="Emotion&lt;br style=&quot;font-size: 16px;&quot;&gt;Encoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.16059757236227826;whiteSpace=wrap;horizontal=0;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
-          <mxGeometry x="319" y="-936.5" width="89.25" height="60" as="geometry" />
+          <mxGeometry x="449" y="-828" width="89.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="U-Net" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="404" y="-1064" width="120" height="60" as="geometry" />
