@@ -313,7 +313,7 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-24" value="DCNv4" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="anger&lt;br&gt;awe&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontFamily=Times New Roman;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-30" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontFamily=Times New Roman;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="186" y="-946" width="60.5" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多标签情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
@@ -377,7 +377,7 @@
           <mxGeometry x="650" y="-859" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-83" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="-1033" width="80" height="100" as="geometry" />
+          <mxGeometry x="80" y="-992" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
