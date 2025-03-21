@@ -349,6 +349,9 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="情感融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="-991" width="98" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-70" value="情感标签2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-904" width="110" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
