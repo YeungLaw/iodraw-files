@@ -335,7 +335,10 @@
           <mxGeometry x="271" y="-1062" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-61" value="Target Image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="674" y="-966" width="100" height="20" as="geometry" />
+          <mxGeometry x="677" y="-966" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="dTGVh1k9Jvb3Y0WyYaHo-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="情感融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="425" y="-988.5" width="98" height="60" as="geometry" />
