@@ -328,8 +328,8 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-35" value="Emotion&lt;br style=&quot;font-size: 16px;&quot;&gt;Encoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.16059757236227826;whiteSpace=wrap;horizontal=0;fontFamily=Times New Roman;fontSize=16;strokeColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="449" y="-828" width="89.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="U-Net" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="404" y="-1064" width="120" height="60" as="geometry" />
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="G" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="459" y="-924.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-39" target="dTGVh1k9Jvb3Y0WyYaHo-42">
           <mxGeometry relative="1" as="geometry" />
