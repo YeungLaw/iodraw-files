@@ -322,6 +322,12 @@
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BottleNeck&lt;br&gt;×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1230" y="678" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h-18rLGyRqsZkfFWZ2DF-30" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-18rLGyRqsZkfFWZ2DF-31" value="Relu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
