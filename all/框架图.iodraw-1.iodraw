@@ -320,10 +320,10 @@
           <mxGeometry x="1480" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BottleNeck&lt;br style=&quot;font-size: 20px;&quot;&gt;×6&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="1480" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BottleNeck&lt;br style=&quot;font-size: 20px;&quot;&gt;×4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="305" width="120" height="60" as="geometry" />
+          <mxGeometry x="1480" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BottleNeck&lt;br style=&quot;font-size: 20px;&quot;&gt;×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1480" y="468" width="120" height="60" as="geometry" />
