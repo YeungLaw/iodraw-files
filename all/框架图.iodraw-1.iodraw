@@ -341,7 +341,7 @@
           <mxGeometry x="1870" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-37" value="Stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="368" width="60" height="30" as="geometry" />
+          <mxGeometry x="1620" y="382" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
