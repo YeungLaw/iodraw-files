@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="501" y="1320" width="60" height="60" as="geometry" />
+          <mxGeometry x="501" y="1314" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-51" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;fillColor=#f9f7ed;strokeColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1380" y="58" width="340" height="592" as="geometry" />
@@ -405,7 +405,7 @@
           <mxGeometry x="1606" y="557" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-65" value="图像输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1326" width="60" height="60" as="geometry" />
+          <mxGeometry x="495" y="1320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;图像情感分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="450" y="1204" width="150" height="66" as="geometry" />
@@ -417,7 +417,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-69" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="1410" width="90" height="50" as="geometry" />
+          <mxGeometry x="580.18" y="1386" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
