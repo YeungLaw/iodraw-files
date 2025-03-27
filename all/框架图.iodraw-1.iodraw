@@ -422,6 +422,15 @@
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="681" y="1314" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h-18rLGyRqsZkfFWZ2DF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h-18rLGyRqsZkfFWZ2DF-76" target="h-18rLGyRqsZkfFWZ2DF-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="1405" />
+              <mxPoint x="680" y="1405" />
+              <mxPoint x="680" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-76" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="675" y="1320" width="60" height="60" as="geometry" />
         </mxCell>
