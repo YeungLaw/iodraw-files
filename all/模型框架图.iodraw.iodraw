@@ -408,9 +408,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="356" y="-603" as="sourcePoint" />
             <mxPoint x="367" y="-599" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="356" y="-550" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--32" value="Q&lt;br style=&quot;font-size: 10px;&quot;&gt;KV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" vertex="1" parent="1">
