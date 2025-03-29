@@ -304,7 +304,7 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="情感标签" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="133" y="-828" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.21861413043478312;flipV=1;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="-638" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-40" value="文本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
@@ -361,7 +361,7 @@
           <mxGeometry x="336.5" y="-871" width="58" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=0;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="-570" width="120" height="57.5" as="geometry" />
+          <mxGeometry x="252.5" y="-575" width="120" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
