@@ -369,7 +369,7 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.3218750000000003;flipV=0;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="-505" width="120" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--25" value="输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--25" value="特征编码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400.25" y="-735" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
