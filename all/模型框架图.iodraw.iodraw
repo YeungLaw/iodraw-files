@@ -299,7 +299,7 @@
           <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-31" value="多标签情感输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="156.5" y="-871" width="125" height="20" as="geometry" />
+          <mxGeometry x="99" y="-867" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-37" target="dTGVh1k9Jvb3Y0WyYaHo-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -330,11 +330,6 @@
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;情感&lt;br&gt;编码器&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.2222222222222222;whiteSpace=wrap;horizontal=0;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="271" y="-931" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dTGVh1k9Jvb3Y0WyYaHo-71" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="246.5" y="-908.5" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BiHAFNet&lt;br style=&quot;font-size: 16px;&quot;&gt;适配器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="453.5" y="-1125" width="98" height="60" as="geometry" />
