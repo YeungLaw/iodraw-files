@@ -319,9 +319,12 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="264" y="-544" />
+              <mxPoint x="274" y="-544" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9pMb1lBSi62T27hIt0--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="158.26" y="-650" width="319.74" height="42" as="geometry" />
