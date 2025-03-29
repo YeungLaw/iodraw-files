@@ -377,10 +377,7 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--6" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="571" y="-919" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9pMb1lBSi62T27hIt0--7" target="dTGVh1k9Jvb3Y0WyYaHo-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="545" y="-871" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
