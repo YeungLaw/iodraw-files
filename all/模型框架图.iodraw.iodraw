@@ -325,7 +325,7 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="dTGVh1k9Jvb3Y0WyYaHo-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="情感融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="425" y="-988.5" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-71" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;情感&lt;br&gt;编码器&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.2222222222222222;whiteSpace=wrap;horizontal=0;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
