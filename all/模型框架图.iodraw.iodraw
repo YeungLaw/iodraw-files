@@ -397,11 +397,13 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--29" value="图像生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="388" y="-497" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y9pMb1lBSi62T27hIt0--34">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.598;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349" y="-610" as="sourcePoint" />
             <mxPoint x="367" y="-599" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="350" y="-610" />
+              <mxPoint x="350" y="-610" />
               <mxPoint x="350" y="-498" />
             </Array>
           </mxGeometry>
