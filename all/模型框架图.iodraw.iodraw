@@ -433,8 +433,8 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y9pMb1lBSi62T27hIt0--18" target="Y9pMb1lBSi62T27hIt0--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="382" y="-368" width="100" height="20" as="geometry" />
+        <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="379" y="-363" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
