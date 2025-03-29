@@ -316,8 +316,11 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-61" value="生成器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="650" y="-971" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y9pMb1lBSi62T27hIt0--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="317.16666666666663" y="-607.9999999999998" as="sourcePoint" />
+            <mxPoint x="316.76" y="-575" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="158.26" y="-650" width="319.74" height="42" as="geometry" />
@@ -386,8 +389,8 @@
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="331" y="-608" as="sourcePoint" />
-            <mxPoint x="331" y="-575" as="targetPoint" />
+            <mxPoint x="367" y="-608" as="sourcePoint" />
+            <mxPoint x="367" y="-575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
