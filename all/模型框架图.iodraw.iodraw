@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GbUBwrVP7Vc7g4HHzvBP-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/736x/5f/af/31/5faf31543a864e0b7567f894e61f3789.jpg;labelBorderColor=default;imageBorder=default;" parent="1" vertex="1">
-          <mxGeometry x="346.52" y="316.1100000000001" width="75.96" height="42.61" as="geometry" />
+          <mxGeometry x="495" y="411.0000000000001" width="75.96" height="42.61" as="geometry" />
         </mxCell>
         <mxCell id="GbUBwrVP7Vc7g4HHzvBP-13" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;arcSize=10;strokeColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="187.26" y="340.69" width="49" height="23" as="geometry" />
