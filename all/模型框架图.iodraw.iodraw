@@ -310,7 +310,7 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-37" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.21208653485757178;flipV=1;strokeColor=#6e6868;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="255" y="-587" width="115" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-40" value="输入" style="text;html=1;strokeColor=#6e6868;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-40" value="输入" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="401.25" y="-813" width="75.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文本&lt;br&gt;映射&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.131337890625;whiteSpace=wrap;horizontal=0;strokeColor=#6e6868;fontFamily=Times New Roman;fontSize=16;fillColor=#e1d5e7;strokeWidth=1;opacity=60;" parent="1" vertex="1">
@@ -385,7 +385,7 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.21079269935344838;flipV=0;strokeColor=#6e6868;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="254" y="-516" width="116" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--25" value="特征编码" style="text;html=1;strokeColor=#6e6868;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--25" value="特征编码" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="386" y="-679" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.329;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6e6868;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-71">
@@ -398,7 +398,7 @@
             <mxPoint x="274.4107399999999" y="-645.1680000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--29" value="图像生成" style="text;html=1;strokeColor=#6e6868;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--29" value="图像生成" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="383" y="-469" width="94" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.582;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;endSize=5;strokeColor=#6e6868;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--34">
@@ -434,7 +434,7 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6e6868;" edge="1" parent="1" source="Y9pMb1lBSi62T27hIt0--18" target="Y9pMb1lBSi62T27hIt0--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=#6e6868;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="375" y="-363" width="102" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=#6e6868;opacity=80;" parent="1" vertex="1">
