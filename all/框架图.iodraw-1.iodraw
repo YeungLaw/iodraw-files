@@ -475,10 +475,10 @@
           <mxGeometry x="10" width="80" height="81" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=8.85;arrowHead=35.72;dx2=26.03;fillColor=#dcedf5;strokeColor=none;opacity=30;rotation=-161;gradientColor=#FF9999;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1090" width="3.54" height="190" as="geometry" />
+          <mxGeometry x="768.94" y="1084.8" width="35.47" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="QtWfsO83eug2lEMWBmWs-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=8.85;arrowHead=35.72;dx2=26.03;fillColor=#dcedf5;strokeColor=none;opacity=30;rotation=5;gradientColor=#FF9999;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="600.46" y="1040" width="3.54" height="190" as="geometry" />
+        <mxCell id="QtWfsO83eug2lEMWBmWs-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=8.85;arrowHead=35.72;dx2=26.03;fillColor=#dcedf5;strokeColor=none;opacity=30;rotation=10;gradientColor=#FF9999;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="604" y="1030" width="3.54" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
