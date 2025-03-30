@@ -474,11 +474,11 @@
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-76" value="个性化内容交互" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=16;shadow=0;" parent="QtWfsO83eug2lEMWBmWs-11" vertex="1">
           <mxGeometry x="10" width="80" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="QtWfsO83eug2lEMWBmWs-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
+        <mxCell id="QtWfsO83eug2lEMWBmWs-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1160" width="130" height="260" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1171" width="130" height="260" as="geometry" />
+          <mxGeometry x="168.94" y="1171" width="130" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
