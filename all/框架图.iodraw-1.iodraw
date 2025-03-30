@@ -452,10 +452,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="741" y="1150" width="80" height="80" as="geometry" />
+          <mxGeometry x="472" y="1150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-6" value="足迹" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="751" y="1140" width="80" height="81" as="geometry" />
+          <mxGeometry x="482" y="1140" width="80" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
