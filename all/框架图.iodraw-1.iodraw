@@ -468,7 +468,7 @@
         <mxCell id="QtWfsO83eug2lEMWBmWs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;fontSize=16;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="524" y="1184" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QtWfsO83eug2lEMWBmWs-6" value="社交&lt;br&gt;动态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QtWfsO83eug2lEMWBmWs-6" value="社交&lt;br&gt;动态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="534" y="1174" width="80" height="81" as="geometry" />
         </mxCell>
       </root>
