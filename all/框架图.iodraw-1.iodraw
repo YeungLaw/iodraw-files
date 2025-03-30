@@ -443,7 +443,7 @@
           <mxGeometry x="855" y="1234" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-1" value="情感状态诊断" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1038" width="80" height="80" as="geometry" />
+          <mxGeometry x="620" y="1030" width="140" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
