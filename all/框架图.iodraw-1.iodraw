@@ -405,7 +405,7 @@
           <mxGeometry x="1606" y="557" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-65" value="视觉&lt;br&gt;|信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="495" y="1151" width="60" height="60" as="geometry" />
+          <mxGeometry x="747.42" y="1140" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-18rLGyRqsZkfFWZ2DF-67" target="QtWfsO83eug2lEMWBmWs-1">
           <mxGeometry relative="1" as="geometry" />
