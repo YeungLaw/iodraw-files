@@ -446,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-80" value="发布情感" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580.18" y="1330" width="70" height="30" as="geometry" />
+          <mxGeometry x="576" y="1310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-81" value="心理干预" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="843" y="1300" width="80" height="30" as="geometry" />
