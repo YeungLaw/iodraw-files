@@ -404,7 +404,7 @@
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-64" value="56×56" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;flipV=1;flipH=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1606" y="557" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h-18rLGyRqsZkfFWZ2DF-65" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="h-18rLGyRqsZkfFWZ2DF-65" value="视觉&lt;br&gt;|信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="495" y="1151" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h-18rLGyRqsZkfFWZ2DF-67" target="QtWfsO83eug2lEMWBmWs-1">
@@ -423,7 +423,7 @@
           <mxGeometry x="655" y="1264" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="824" y="1120" width="88" height="88" as="geometry" />
+          <mxGeometry x="841" y="1130" width="79" height="81" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="h-18rLGyRqsZkfFWZ2DF-76" edge="1">
           <mxGeometry relative="1" as="geometry">
