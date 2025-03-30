@@ -454,7 +454,7 @@
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-81" value="心理干预" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="850" y="1280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QtWfsO83eug2lEMWBmWs-1" value="情感状态诊断" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="QtWfsO83eug2lEMWBmWs-1" value="情感状态诊断" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="639" y="948" width="140" height="82" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QtWfsO83eug2lEMWBmWs-1" target="h-18rLGyRqsZkfFWZ2DF-68">
