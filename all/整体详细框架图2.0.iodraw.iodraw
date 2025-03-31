@@ -481,7 +481,7 @@
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="410.5797991071429" as="targetPoint" />
+            <mxPoint x="365" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-5" value="1×1Conv&lt;br&gt;IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad9d5;arcSize=0;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -519,7 +519,7 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;全局分支特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="238" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;局部分支特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;局部分支&lt;br&gt;归一化后特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252.62" y="368" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;全局分支特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
