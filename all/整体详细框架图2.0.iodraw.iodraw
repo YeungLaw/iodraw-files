@@ -511,6 +511,12 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-22" value="混合特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="479" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="512" y="305" as="sourcePoint" />
+            <mxPoint x="562" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
