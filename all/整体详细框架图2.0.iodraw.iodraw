@@ -507,7 +507,7 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-6" value="1×1Conv&lt;br&gt;BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b1ddf0;arcSize=0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="488" y="294" width="110" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-12" value="混合特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-12" value="融合特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="387" y="675" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-21" value="局部修正" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;opacity=30;" vertex="1" parent="1">
@@ -582,6 +582,9 @@
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-63" value="全局引导" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="972" y="565" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;局部分支&lt;br&gt;归一化后特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="289.48" y="527" width="122.62" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
