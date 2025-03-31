@@ -522,10 +522,10 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PV2dvZUyfkgMQ-hs7By2-55" target="PV2dvZUyfkgMQ-hs7By2-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;局部分支特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;局部分支特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="303.5" y="242" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局分支特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局分支特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="242" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-37" target="YSGkKpOkJTUQ_QHnO98E-29">
