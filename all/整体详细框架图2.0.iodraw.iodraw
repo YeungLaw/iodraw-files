@@ -42,8 +42,8 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-6" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;arcSize=0;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="310" y="319.5" width="110" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-11" value="DWConv+&lt;br&gt;SpatialAttn" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="304.75" y="372.15" width="148.5" height="61.85" as="geometry" />
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-11" value="DWConv+&lt;br&gt;SpatialAttn" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;arcSize=3;" parent="1" vertex="1">
+          <mxGeometry x="298.75" y="379.07" width="148.5" height="61.85" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.505;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PV2dvZUyfkgMQ-hs7By2-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +76,7 @@
           <mxGeometry x="170" y="215" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-43" value="ChannelAttn" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="483" y="385" width="130" height="50" as="geometry" />
+          <mxGeometry x="481" y="379.07" width="130" height="59" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-53" value="特征对齐" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="170" y="292" width="130" height="20" as="geometry" />
