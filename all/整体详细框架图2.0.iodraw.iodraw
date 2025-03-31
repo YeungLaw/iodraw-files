@@ -42,11 +42,6 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="全局分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontSize=18;fillColor=#fad9d5;strokeColor=#000000;fontFamily=宋体;strokeWidth=1;shadow=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="480" y="165" width="126" height="57.27" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=宋体;" parent="1" target="PV2dvZUyfkgMQ-hs7By2-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450.57142857142867" y="122" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="PV2dvZUyfkgMQ-hs7By2-11" target="YSGkKpOkJTUQ_QHnO98E-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -503,7 +498,7 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-6" value="1×1Conv&lt;br&gt;BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b1ddf0;arcSize=0;strokeColor=#10739e;fontFamily=Times New Roman;shadow=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="488" y="294" width="110" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-12" value="融合特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;arcSize=0;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-12" value="融合特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;arcSize=0;fontFamily=宋体;glass=0;" vertex="1" parent="1">
           <mxGeometry x="387" y="698" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-21" value="局部修正" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;opacity=30;fontFamily=宋体;" vertex="1" parent="1">
