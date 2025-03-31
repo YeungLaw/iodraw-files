@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="4uDn7cclaqp_8st4GZhA" name="第 1 页">
-    <mxGraphModel dx="393" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,8 +27,8 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-1" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="310" y="200" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="459" y="200" width="170" height="50" as="geometry" />
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="全局分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="487" y="200" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="PV2dvZUyfkgMQ-hs7By2-3" target="PV2dvZUyfkgMQ-hs7By2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
