@@ -45,13 +45,6 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-3" value="Image" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="411" y="110" width="79" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="PV2dvZUyfkgMQ-hs7By2-6" target="PV2dvZUyfkgMQ-hs7By2-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="365" y="474" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-6" value="Channel Attention" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="310" y="311" width="110" height="50" as="geometry" />
         </mxCell>
