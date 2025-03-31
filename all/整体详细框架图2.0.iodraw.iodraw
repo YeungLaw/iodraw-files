@@ -496,7 +496,7 @@
             <mxPoint x="365" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-5" value="1×1Conv&lt;br&gt;IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad9d5;arcSize=0;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-5" value="1×1Conv&lt;br&gt;IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b1ddf0;arcSize=0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="310" y="294" width="110" height="62" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-6">
