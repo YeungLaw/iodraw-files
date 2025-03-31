@@ -519,13 +519,6 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全局分支特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="242" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.457;exitY=0.964;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-37" target="YSGkKpOkJTUQ_QHnO98E-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="497" y="429" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;局部分支&lt;br&gt;归一化后特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308.38" y="387" width="122.62" height="43" as="geometry" />
         </mxCell>
