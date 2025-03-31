@@ -517,6 +517,9 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;局部分支特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252.62" y="368" width="120" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;全局分支特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="325" width="120" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
