@@ -40,7 +40,7 @@
           <mxGeometry x="411" y="110" width="79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-6" value="Channel Attention" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="310" y="311" width="110" height="50" as="geometry" />
+          <mxGeometry x="316" y="398" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-11" value="Linear Layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="470" y="393" width="148.5" height="49.85" as="geometry" />
@@ -469,6 +469,12 @@
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="394.25" y="1024" width="42.75" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-5" value="1×1Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="313.5" y="276" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-6" value="1×1Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="496" y="276" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
