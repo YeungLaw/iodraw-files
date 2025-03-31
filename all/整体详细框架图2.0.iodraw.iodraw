@@ -517,7 +517,7 @@
             <mxPoint x="562" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-29" value="DWConv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;arcSize=0;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-29" value="SpatialAttn" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;arcSize=0;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="182.74" y="422" width="131.25" height="61.85" as="geometry" />
         </mxCell>
       </root>
