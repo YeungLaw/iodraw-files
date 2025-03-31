@@ -100,7 +100,7 @@
           <mxGeometry x="183" y="468" width="130" height="62.93" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-53" value="卷积+归一化" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="133" y="294" width="130" height="20" as="geometry" />
+          <mxGeometry x="120" y="294" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-55" value="全局引导" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="640" y="386" width="130" height="20" as="geometry" />
