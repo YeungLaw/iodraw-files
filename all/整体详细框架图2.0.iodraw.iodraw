@@ -42,7 +42,7 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-6" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fad7ac;arcSize=0;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="310" y="319.5" width="110" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-11" value="Linear Layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-11" value="DWConv+&lt;br&gt;SpatialAttention" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="304.75" y="372.15" width="148.5" height="83.85" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.505;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PV2dvZUyfkgMQ-hs7By2-15" edge="1">
