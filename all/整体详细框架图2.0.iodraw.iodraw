@@ -30,6 +30,9 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-1" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="299" y="200" width="132" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PV2dvZUyfkgMQ-hs7By2-2" target="YSGkKpOkJTUQ_QHnO98E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="全局分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="126" height="57.27" as="geometry" />
         </mxCell>
@@ -482,8 +485,14 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="394.25" y="1163" width="42.75" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-5" target="PV2dvZUyfkgMQ-hs7By2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-5" value="1×1Conv&lt;br&gt;IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="310" y="286" width="110" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-6" target="PV2dvZUyfkgMQ-hs7By2-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-6" value="1×1Conv&lt;br&gt;BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="487" y="279" width="110" height="62" as="geometry" />
