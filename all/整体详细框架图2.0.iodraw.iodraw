@@ -471,12 +471,12 @@
           <mxGeometry x="394.25" y="1024" width="42.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-5" value="1×1Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="313.5" y="276" width="110" height="50" as="geometry" />
+          <mxGeometry x="310" y="272" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-6" value="1×1Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="496" y="276" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-7" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-7" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="487" y="339" width="110" height="33" as="geometry" />
         </mxCell>
       </root>
