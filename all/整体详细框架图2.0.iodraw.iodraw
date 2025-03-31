@@ -592,6 +592,9 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-68" value="β加权" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="567" y="605" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-69" value="局部修正" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="588" width="130" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
