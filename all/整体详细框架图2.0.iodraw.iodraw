@@ -39,8 +39,8 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-3" value="Image" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="411" y="110" width="79" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-6" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="318.88" y="346" width="110" height="50" as="geometry" />
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-6" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="313.5" y="339" width="110" height="33" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-11" value="Linear Layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="470" y="393" width="148.5" height="49.85" as="geometry" />
@@ -475,6 +475,9 @@
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-6" value="1×1Conv" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="496" y="276" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-7" value="IN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="487" y="339" width="110" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
