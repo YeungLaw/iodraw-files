@@ -33,13 +33,13 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PV2dvZUyfkgMQ-hs7By2-1" target="YSGkKpOkJTUQ_QHnO98E-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-1" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-1" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="299" y="165" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PV2dvZUyfkgMQ-hs7By2-2" target="YSGkKpOkJTUQ_QHnO98E-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="全局分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="全局分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="480" y="165" width="126" height="57.27" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="PV2dvZUyfkgMQ-hs7By2-3" target="PV2dvZUyfkgMQ-hs7By2-1" edge="1">
