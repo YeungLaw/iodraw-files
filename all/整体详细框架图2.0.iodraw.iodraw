@@ -24,7 +24,7 @@
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=2;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="180" y="90" width="452.88" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="PV2dvZUyfkgMQ-hs7By2-1" value="ResNet50" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="PV2dvZUyfkgMQ-hs7By2-1" value="局部分支" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="310" y="200" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-2" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fontSize=20;fillColor=#ffe6cc;" parent="1" vertex="1">
