@@ -349,8 +349,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h-18rLGyRqsZkfFWZ2DF-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BottleNeck&lt;br style=&quot;font-size: 20px;&quot;&gt;×3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="166" width="120" height="60" as="geometry" />
+        <mxCell id="h-18rLGyRqsZkfFWZ2DF-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BottleNeck&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="295" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h-18rLGyRqsZkfFWZ2DF-27" target="h-18rLGyRqsZkfFWZ2DF-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
