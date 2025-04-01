@@ -322,7 +322,7 @@
           <mxGeometry x="1480" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-23" value="BN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="740" width="160" height="37" as="geometry" />
+          <mxGeometry x="1450" y="740" width="180" height="37" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="h-18rLGyRqsZkfFWZ2DF-24" target="h-18rLGyRqsZkfFWZ2DF-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -333,7 +333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-24" value="Relu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="699" width="160" height="40" as="geometry" />
+          <mxGeometry x="1450" y="699" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h-18rLGyRqsZkfFWZ2DF-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h-18rLGyRqsZkfFWZ2DF-25" target="h-18rLGyRqsZkfFWZ2DF-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
