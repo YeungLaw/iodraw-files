@@ -467,7 +467,7 @@
         <mxCell id="QtWfsO83eug2lEMWBmWs-65" value="GELU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2050" y="219" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="QtWfsO83eug2lEMWBmWs-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QtWfsO83eug2lEMWBmWs-67" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2110" y="30" as="sourcePoint" />
             <mxPoint x="2280" y="180" as="targetPoint" />
