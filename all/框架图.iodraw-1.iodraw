@@ -491,7 +491,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-83" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;GELU&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#e1d5e7;fontSize=18;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2045" y="543" width="120" height="40" as="geometry" />
+          <mxGeometry x="2060" y="543" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QtWfsO83eug2lEMWBmWs-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="QtWfsO83eug2lEMWBmWs-85">
           <mxGeometry relative="1" as="geometry">
