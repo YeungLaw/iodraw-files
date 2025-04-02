@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="4uDn7cclaqp_8st4GZhA" name="第 1 页">
-    <mxGraphModel dx="434" dy="205" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,7 +594,7 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;gradientDirection=south;shadow=0;glass=0;fillColor=#346702;strokeColor=#000000;fillStyle=dots;gradientColor=#cd6803;" vertex="1" parent="1">
           <mxGeometry x="758" y="1141.5" width="27" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;flipV=0;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;flipV=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="766" y="1145.5" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;flipV=0;" vertex="1" parent="1">
