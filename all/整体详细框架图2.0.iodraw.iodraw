@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="4uDn7cclaqp_8st4GZhA" name="第 1 页">
-    <mxGraphModel dx="1073" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
             <mxPoint x="598.4599999999998" y="1099.5950000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-36" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-36" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="663" y="1175" width="62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-40" value="输出情感特征值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
