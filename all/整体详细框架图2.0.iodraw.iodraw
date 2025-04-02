@@ -242,15 +242,9 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-40" value="输出情感特征值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="742" y="1060" width="117" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-41" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VIliGO5FSfr6xH9SGfwO-1" target="OU_fOygVOPorZR7enB_c-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="233.75" y="1153.5" as="sourcePoint" />
-            <mxPoint x="323.99800000000005" y="1100.5549999999998" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240.38" y="1154" />
-              <mxPoint x="240.38" y="1107" />
-              <mxPoint x="324.38" y="1107" />
-            </Array>
+            <mxPoint x="261.7025" y="1150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=blockThin;endFill=1;endSize=2;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VIliGO5FSfr6xH9SGfwO-1" target="OU_fOygVOPorZR7enB_c-10" edge="1">
