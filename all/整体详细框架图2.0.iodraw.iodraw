@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="4uDn7cclaqp_8st4GZhA" name="第 1 页">
-    <mxGraphModel dx="280" dy="303" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,9 +119,6 @@
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=8;fillColor=#d5e8d4;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="1201" width="287" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fontFamily=Times New Roman;strokeColor=default;strokeWidth=0.5;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="1204" width="144.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="321.19" y="1245" width="42.75" height="70" as="geometry" />
@@ -370,9 +367,9 @@
             <mxPoint x="393.06260135135136" y="1103.0487668918918" as="targetPoint" />
             <mxPoint x="403.8756521739131" y="1252.61" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="403.93" y="1183" />
-              <mxPoint x="381.93" y="1183" />
-              <mxPoint x="381.93" y="1103" />
+              <mxPoint x="404" y="1188" />
+              <mxPoint x="382" y="1188" />
+              <mxPoint x="382" y="1103" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -542,6 +539,9 @@
             <mxPoint x="546.25" y="1281.5213675213677" as="sourcePoint" />
             <mxPoint x="593.594" y="1281.604" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fontFamily=Times New Roman;strokeColor=default;strokeWidth=0.5;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="1204" width="144.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
