@@ -349,7 +349,7 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=default;opacity=80;dashed=1;" parent="1" vertex="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=default;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="54.889999999999986" y="-424" width="319.74" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--45" value="生成器" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
@@ -359,7 +359,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--11" value="" style="group;opacity=80;strokeColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="173.13" y="-249" width="72" height="72" as="geometry" />
+          <mxGeometry x="173.13" y="-269" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#6e6868;fontSize=16;" vertex="1" parent="Y9pMb1lBSi62T27hIt0--11">
           <mxGeometry x="12" width="60" height="60" as="geometry" />
