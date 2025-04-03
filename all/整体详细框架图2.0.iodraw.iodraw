@@ -376,10 +376,10 @@
           <mxGeometry x="502.5" y="1246" width="42.75" height="73" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-16" value="stage3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="452" y="1246" width="42.75" height="73" as="geometry" />
+          <mxGeometry x="443" y="1245" width="42.75" height="73" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="379.31" y="1246" width="42.75" height="73" as="geometry" />
+          <mxGeometry x="380.75" y="1246" width="42.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-5">
           <mxGeometry relative="1" as="geometry">
