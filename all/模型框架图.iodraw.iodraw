@@ -340,7 +340,7 @@
           <mxGeometry x="200.85" y="-1411" width="484.15" height="246" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--11" value="" style="group;opacity=80;strokeColor=#6e6868;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="169.13" y="-196" width="72" height="72" as="geometry" />
+          <mxGeometry x="173.13" y="-196" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#6e6868;fontSize=16;" vertex="1" parent="Y9pMb1lBSi62T27hIt0--11">
           <mxGeometry x="12" width="60" height="60" as="geometry" />
@@ -373,8 +373,11 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--29" value="图像生成" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="279.63" y="-248" width="94" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6e6868;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y9pMb1lBSi62T27hIt0--45" target="Y9pMb1lBSi62T27hIt0--7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y9pMb1lBSi62T27hIt0--39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.397;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6e6868;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="217.75999999999988" y="-290" as="sourcePoint" />
+            <mxPoint x="211.94999999999993" y="-195.87999999999965" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="271.63" y="-142" width="102" height="20" as="geometry" />
