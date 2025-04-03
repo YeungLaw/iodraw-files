@@ -379,6 +379,9 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="271.63" y="-142" width="102" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Y9pMb1lBSi62T27hIt0--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTGVh1k9Jvb3Y0WyYaHo-69" target="Y9pMb1lBSi62T27hIt0--45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=default;opacity=80;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="54.889999999999986" y="-424" width="319.74" height="42" as="geometry" />
         </mxCell>
