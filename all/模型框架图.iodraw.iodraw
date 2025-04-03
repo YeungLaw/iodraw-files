@@ -350,7 +350,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=default;opacity=80;shadow=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="54.889999999999986" y="-424" width="319.74" height="42" as="geometry" />
+          <mxGeometry x="94.52" y="-424" width="240.48" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--45" value="生成器" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#82b366;fontFamily=宋体;fontSize=16;fillColor=#d5e8d4;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="154.76" y="-353" width="120" height="60" as="geometry" />
