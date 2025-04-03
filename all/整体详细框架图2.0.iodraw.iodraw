@@ -365,7 +365,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-16" value="stage3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="443" y="1245" width="42.75" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-15">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="392.38260135135135" y="1095.4387668918919" as="targetPoint" />
           </mxGeometry>
