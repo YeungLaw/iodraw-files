@@ -308,7 +308,7 @@
           <mxGeometry x="311" y="624" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-40" value="输入" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="297.88" y="-592" width="75.75" height="20" as="geometry" />
+          <mxGeometry x="23" y="-592.75" width="75.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文本&lt;br&gt;映射&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;html=1;rotation=90;portConstraintRotation=0;rotatable=1;size=0.131337890625;whiteSpace=wrap;horizontal=0;strokeColor=#6e6868;fontFamily=Times New Roman;fontSize=16;fillColor=#e1d5e7;strokeWidth=1;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="120.13" y="-530.5" width="100" height="65.5" as="geometry" />
@@ -367,9 +367,6 @@
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=default;opacity=80;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="54.889999999999986" y="-424" width="319.74" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--44" value="U-Net" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="394" y="-196" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--45" value="生成器" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;rotation=0;horizontal=1;size=0.2222222222222222;flipV=1;strokeColor=#0066CC;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="154.76" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -387,6 +384,9 @@
         </mxCell>
         <mxCell id="Y9pMb1lBSi62T27hIt0--6" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#6e6868;fontSize=16;" vertex="1" parent="Y9pMb1lBSi62T27hIt0--11">
           <mxGeometry y="12" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9pMb1lBSi62T27hIt0--48" value="输出" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="23" y="-145" width="75.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
