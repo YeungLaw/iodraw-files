@@ -120,7 +120,7 @@
         <mxCell id="OU_fOygVOPorZR7enB_c-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=8;fillColor=#d5e8d4;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="1201" width="287" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="OU_fOygVOPorZR7enB_c-11" value="Swin Transformer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fontFamily=Times New Roman;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="1204" width="144.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
