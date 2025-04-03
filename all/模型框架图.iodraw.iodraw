@@ -361,14 +361,11 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--48" value="输出" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="23" y="-235" width="75.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--49" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="178.13" y="-269" width="67" height="66" as="geometry" />
+        <mxCell id="Y9pMb1lBSi62T27hIt0--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#6e6868;fontSize=16;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="185.13" y="-269" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#6e6868;fontSize=16;" vertex="1" parent="Y9pMb1lBSi62T27hIt0--49">
-          <mxGeometry x="7" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--6" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#6e6868;fontSize=16;" vertex="1" parent="Y9pMb1lBSi62T27hIt0--49">
-          <mxGeometry y="6" width="60" height="60" as="geometry" />
+        <mxCell id="Y9pMb1lBSi62T27hIt0--6" value="图像" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#6e6868;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="178.13" y="-263" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
