@@ -133,7 +133,7 @@
           <mxGeometry x="269.25" y="1443" width="191.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-12" value="stage1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="345" y="1235" width="42.75" height="71" as="geometry" />
+          <mxGeometry x="351.5" y="1245" width="42.75" height="71" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-14" value="Patch Partition" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fontFamily=Times New Roman;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="289.74" y="1275" width="95.5" height="20" as="geometry" />
@@ -379,7 +379,7 @@
           <mxGeometry x="447.25" y="1275" width="42.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="OU_fOygVOPorZR7enB_c-15" value="stage2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="394.25" y="1275" width="42.75" height="31" as="geometry" />
+          <mxGeometry x="398.5" y="1245" width="42.75" height="64" as="geometry" />
         </mxCell>
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YSGkKpOkJTUQ_QHnO98E-5">
           <mxGeometry relative="1" as="geometry">
