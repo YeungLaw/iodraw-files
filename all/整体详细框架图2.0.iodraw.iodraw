@@ -511,7 +511,7 @@
         <mxCell id="YSGkKpOkJTUQ_QHnO98E-87" value="ResNet-50" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fontFamily=Times New Roman;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="395.5" y="1037.6499999999999" width="113.5" height="17.46" as="geometry" />
         </mxCell>
-        <mxCell id="YSGkKpOkJTUQ_QHnO98E-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.104;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-14" target="OU_fOygVOPorZR7enB_c-12">
+        <mxCell id="YSGkKpOkJTUQ_QHnO98E-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OU_fOygVOPorZR7enB_c-14" target="OU_fOygVOPorZR7enB_c-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
