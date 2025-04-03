@@ -7,10 +7,10 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6e6868;arcSize=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="54.889999999999986" y="-213" width="319" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#6e6868;arcSize=1;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=default;arcSize=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="54.889999999999986" y="-561" width="319" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Y9pMb1lBSi62T27hIt0--18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#6e6868;arcSize=1;opacity=70;" vertex="1" parent="1">
+        <mxCell id="Y9pMb1lBSi62T27hIt0--18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#6e6868;arcSize=1;opacity=70;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="54.889999999999986" y="-373" width="319" height="153" as="geometry" />
         </mxCell>
         <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#6e6868;arcSize=1;fontColor=#333333;dashed=1;" parent="1" vertex="1">
@@ -431,7 +431,7 @@
         <mxCell id="Y9pMb1lBSi62T27hIt0--40" value="目标图像" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="271.63" y="-142" width="102" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=#6e6868;opacity=80;" parent="1" vertex="1">
+        <mxCell id="dTGVh1k9Jvb3Y0WyYaHo-69" value="跨模态融合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fontSize=16;fillColor=#ffe6cc;strokeColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="54.889999999999986" y="-424" width="319.74" height="42" as="geometry" />
         </mxCell>
       </root>
