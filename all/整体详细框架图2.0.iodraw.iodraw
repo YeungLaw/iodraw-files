@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-43" value="ChannelAttn" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;arcSize=0;strokeColor=#23445d;fontFamily=Times New Roman;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="467.97" width="130" height="62.93" as="geometry" />
+          <mxGeometry x="183" y="467.97" width="130" height="62.93" as="geometry" />
         </mxCell>
         <mxCell id="PV2dvZUyfkgMQ-hs7By2-53" value="卷积+归一化" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;opacity=30;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="133" y="294" width="130" height="20" as="geometry" />
