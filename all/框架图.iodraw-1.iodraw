@@ -647,10 +647,10 @@
           <mxGeometry x="294.38" y="110" width="150" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-47" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1570" width="99.45" height="30" as="geometry" />
+          <mxGeometry x="480" y="1570" width="90.45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-47">
-          <mxGeometry width="99.45" height="30" as="geometry" />
+          <mxGeometry width="90.45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-49" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-48">
           <mxGeometry width="30" height="30" as="geometry">
@@ -663,8 +663,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-51" value="" style="connectable=0;recursiveResize=0;strokeColor=#36393d;fillColor=#cce5ff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-48">
-          <mxGeometry x="60" width="39" height="30" as="geometry">
-            <mxRectangle width="39" height="30" as="alternateBounds" />
+          <mxGeometry x="60" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-52" value="Q" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
