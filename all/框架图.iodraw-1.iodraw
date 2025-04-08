@@ -883,11 +883,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRGJVKVMakQhjSkBNNOp-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=0.905;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IRGJVKVMakQhjSkBNNOp-52" target="IRGJVKVMakQhjSkBNNOp-107">
+        <mxCell id="IRGJVKVMakQhjSkBNNOp-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.053;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IRGJVKVMakQhjSkBNNOp-52" target="IRGJVKVMakQhjSkBNNOp-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="1374" />
-              <mxPoint x="357" y="1374" />
+              <mxPoint x="350" y="1346" />
             </Array>
           </mxGeometry>
         </mxCell>
