@@ -538,8 +538,8 @@
         <mxCell id="IRGJVKVMakQhjSkBNNOp-3" value="&lt;font face=&quot;宋体&quot;&gt;情感空间坐标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2152" y="400" width="98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IRGJVKVMakQhjSkBNNOp-5" value="&lt;font face=&quot;宋体&quot;&gt;情感空间坐标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2152" y="810" width="98" height="30" as="geometry" />
+        <mxCell id="IRGJVKVMakQhjSkBNNOp-5" value="&lt;font face=&quot;宋体&quot;&gt;情感语义向量&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2152" y="811" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
