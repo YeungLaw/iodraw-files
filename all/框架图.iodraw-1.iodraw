@@ -338,24 +338,24 @@
           <mxGeometry x="404" y="733.5" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-38" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="453.5500000000001" y="1470" width="140" height="30" as="geometry" />
+          <mxGeometry x="453.55" y="1470" width="116.45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-38">
-          <mxGeometry width="140" height="30" as="geometry" />
+          <mxGeometry width="116.45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-40" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-39">
-          <mxGeometry width="36" height="30" as="geometry">
-            <mxRectangle width="36" height="30" as="alternateBounds" />
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-41" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-39">
-          <mxGeometry x="36" width="70" height="30" as="geometry">
-            <mxRectangle width="70" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="33" height="30" as="geometry">
+            <mxRectangle width="33" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-42" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-39">
-          <mxGeometry x="106" width="34" height="30" as="geometry">
-            <mxRectangle width="34" height="30" as="alternateBounds" />
+          <mxGeometry x="63" width="53" height="30" as="geometry">
+            <mxRectangle width="53" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-43" value="" style="group" vertex="1" connectable="0" parent="1">
