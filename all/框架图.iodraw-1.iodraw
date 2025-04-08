@@ -803,12 +803,6 @@
             <mxRectangle width="40" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IRGJVKVMakQhjSkBNNOp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.211;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IRGJVKVMakQhjSkBNNOp-52" target="IRGJVKVMakQhjSkBNNOp-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IRGJVKVMakQhjSkBNNOp-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.822;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IRGJVKVMakQhjSkBNNOp-53" target="IRGJVKVMakQhjSkBNNOp-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-73" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="470" y="1100" width="116.45" height="30" as="geometry" />
         </mxCell>
