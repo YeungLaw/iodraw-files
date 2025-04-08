@@ -341,7 +341,7 @@
           <mxGeometry x="404" y="733.5" width="56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-38" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="303.55" y="1495" width="116.45" height="30" as="geometry" />
+          <mxGeometry x="303.55" y="1570" width="116.45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="IRGJVKVMakQhjSkBNNOp-38">
           <mxGeometry width="116.45" height="30" as="geometry" />
@@ -781,7 +781,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IRGJVKVMakQhjSkBNNOp-81" value="LN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="301.77" y="1530" width="120" height="40" as="geometry" />
+          <mxGeometry x="301.77" y="1530" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
